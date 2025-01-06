@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">MyCuaca</string>
+    <string name="name">name</string>
+    <string name="region">region</string>
+    <string name="temp">0°C</string>
+    <string name="feels_like_text">Feels like 0°C</string>
+    <string name="current_condition_description">Current condition</string>
+    <string name="current_condition">Cloudy</string>
+    <string name="wind">Wind</string>
+    <string name="wind_speed">0 KM/h</string>
+    <string name="wind_speed_icon_desc">Wind speed icon</string>
+    <string name="pressure_title">Pressure</string>
+    <string name="air_pressure">0 mbar</string>
+    <string name="humidity_title">Humidity</string>
+    <string name="humidity">0%</string>
 </resources>
